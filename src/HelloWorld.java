@@ -13,5 +13,6 @@ public class HelloWorld {
         // 약간의 중간 팁? : 본인 OS에 맞는 IntellJ 주요 단축키 찾아보기
         // https://g.co/gemini/share/37171052db38
         System.out.println("마아아아아아악");
+        // 범위 지정 -> 우클릭 -> Gemini -> ...
     }
 }
